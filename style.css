@@ -1,8 +1,9 @@
-body{margin: 0px}
-body{padding: 0px}
+body { 
+  margin: 0px;
+  padding: 0px}
 
 @font-face {
-  font-family: 'DM-Sans';
+  font-family: "DM-Sans";
   src: url('dmsans-regular.woff') format('woff');
   src: url('dmsans-regular.woff2') format('woff2');
   src: url('DMSans-Regular.ttf') format('truetype');
@@ -62,13 +63,13 @@ li a:hover {
   position:relative;
   bottom: 25px;
   left: 15px;
-  font-family: 'DM-sans';
+  font-family: "DM-sans";
 }
 
 .header3 {
   position:relative;
   text-align: center;
-  font-family: 'DM-Sans';
+  font-family: "DM-Sans";
   font-size: 50px;
   color:white;
 }
