@@ -9,54 +9,54 @@ body{padding: 0px}
 }
 
 .header1 {
-    position:relative;
-    text-align: center;
-    font-family: 'DM-Sans';
-    font-size: 50px;
-    color:white;
-  }
+  position:relative;
+  text-align: center;
+  font-family: 'DM-Sans';
+  font-size: 50px;
+  color:white;
+}
 
-  .headerbox {
-    padding: 20px;
-    margin: 0px;
-    background: #3d4443;
-    color: white;
-  }
+.headerbox {
+  padding: 20px;
+  margin: 0px;
+  background: #3d4443;
+  color: white;
+}
 
 .header2 {
-    position:relative;
-    text-align: center;
-    font-family: 'DM-Sans';
-    font-size: 50px;
-    color:white;
-  }
+  position:relative;
+  text-align: center;
+  font-family: 'DM-Sans';
+  font-size: 50px;
+  color:white;
+}
 
-  ul {
-    position:relative;
-    bottom: 30px;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-  }
+ul {
+  position:relative;
+  bottom: 30px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
   
-  li {
-    float: left;
-  }
+li {
+  float: left;
+}
   
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    font-family: 'DM-Sans';
-    padding: 14px 16px;
-    text-decoration: none;
-  }
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-family: 'DM-Sans';
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
-  li a:hover {
-    background-color: #111;
-  }
+li a:hover {
+  background-color: #111;
+}
 
 .home1 {
   position:relative;
