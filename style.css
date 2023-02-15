@@ -4,7 +4,7 @@ body {
 }
 
 @font-face {
-  font-family: "DM-Sans";
+  font-family: 'DM-Sans';
   src: url('dmsans-regular.woff') format('woff');
   src: url('dmsans-regular.woff2') format('woff2');
   src: url('DMSans-Regular.ttf') format('truetype');
@@ -13,7 +13,7 @@ body {
 .header1 {
   position: relative;
   text-align: center;
-  font-family: "DM-Sans";
+  font-family: 'DM-Sans';
   font-size: 50px;
   color: white;
 }
@@ -28,7 +28,7 @@ body {
 .header2 {
   position: relative;
   text-align: center;
-  font-family: "DM-Sans";
+  font-family: 'DM-Sans';
   font-size: 50px;
   color: white;
 }
@@ -51,7 +51,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  font-family: "DM-Sans";
+  font-family: 'DM-Sans';
   padding: 14px 16px;
   text-decoration: none;
 }
@@ -64,13 +64,13 @@ li a:hover {
   position:relative;
   bottom: 25px;
   left: 15px;
-  font-family: "DM-sans";
+  font-family: 'DM-sans';
 }
 
 .header3 {
   position:relative;
   text-align: center;
-  font-family: "DM-Sans";
+  font-family: 'DM-Sans';
   font-size: 50px;
   color :white;
 }
@@ -78,7 +78,7 @@ li a:hover {
 .header4 {
   position:relative;
   text-align: center;
-  font-family: "DM-Sans";
+  font-family: 'DM-Sans';
   font-size: 50px;
   color: white;
 }
