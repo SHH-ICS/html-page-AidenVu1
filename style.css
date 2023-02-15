@@ -1,6 +1,7 @@
 body { 
   margin: 0px;
-  padding: 0px}
+  padding: 0px
+}
 
 @font-face {
   font-family: "DM-Sans";
@@ -10,11 +11,11 @@ body {
 }
 
 .header1 {
-  position:relative;
+  position: relative;
   text-align: center;
-  font-family: 'DM-Sans';
+  font-family: "DM-Sans";
   font-size: 50px;
-  color:white;
+  color: white;
 }
 
 .headerbox {
@@ -25,15 +26,15 @@ body {
 }
 
 .header2 {
-  position:relative;
+  position: relative;
   text-align: center;
-  font-family: 'DM-Sans';
+  font-family: "DM-Sans";
   font-size: 50px;
-  color:white;
+  color: white;
 }
 
 ul {
-  position:relative;
+  position: relative;
   bottom: 30px;
   list-style-type: none;
   margin: 0;
@@ -50,7 +51,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  font-family: 'DM-Sans';
+  font-family: "DM-Sans";
   padding: 14px 16px;
   text-decoration: none;
 }
@@ -71,7 +72,7 @@ li a:hover {
   text-align: center;
   font-family: "DM-Sans";
   font-size: 50px;
-  color:white;
+  color :white;
 }
 
 .header4 {
@@ -79,5 +80,5 @@ li a:hover {
   text-align: center;
   font-family: "DM-Sans";
   font-size: 50px;
-  color:white;
+  color: white;
 }
